@@ -1,0 +1,49 @@
+= Enosema branding assets
+
+== Purpose
+
+This repository contains the branding assets for Enosema which are used in
+official Enosema materials.
+
+The assets in this repository are intended for use in Enosema-related materials only.
+
+If you wish to use these assets for any other purpose, please contact Enosema for permission.
+
+== Structure
+
+The repository contains the following folders:
+
+* `logo`: Contains the Enosema logo in various formats (SVG, PNG, etc.). This is
+  the primary logo for Enosema and should be used in all official materials.
+
+* `name-card`: Contains the Enosema name card design files. This is purly for
+Enosema's internal use and should not be used for any other purpose.
+
+== Usage
+
+=== Logo
+
+The Enosema logo is used in all official Enosema materials, including
+presentations, marketing materials, and digital content.
+
+The logo should be used in its original form and should not be altered or
+modified in any way.
+
+When using the logo, please ensure that it is displayed prominently and is not
+obscured by other elements.
+
+The logo may be used by Enosema partners and affiliates in their materials,
+provided that it is used in accordance with the guidelines outlined in this
+document.
+
+=== Name card
+
+WARNING: No public use allowed.
+
+The Enosema name card is used for official Enosema purposes only and is meant
+for internal use only. It should not be used for any other purpose without
+permission from Enosema.
+
+== License and copyright
+
+Copyright (C) Enosema. All rights reserved.
