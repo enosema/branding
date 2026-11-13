@@ -7,7 +7,7 @@ forms. The style is observed in the corpora that the Foundation
 maintains, and it follows the drafting practice of ISO/IEC Directives,
 Part 2, as applied in documents the office authors — ISO 19135:2025,
 *Geographic information — Registration and register governance*, in
-particular. A companion document, `NARRATIVE-WRITING-STYLE.md`, defines
+particular. A companion document, `WRITING-STYLE-NARRATIVE.md`, defines
 the narrative style of the website and the blog; where the two styles
 disagree, the disagreement is deliberate, because a standard addresses
 a reviewer and a website addresses a visitor.

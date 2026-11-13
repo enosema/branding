@@ -3,7 +3,7 @@
 This document defines the narrative writing style of the Enosema
 Foundation ("ES"): the prose of www.enosema.org, blog posts, product
 and project summaries, release notes and public announcements. It is
-the narrative companion of `WRITING-STYLE.md`, which defines the
+the narrative companion of `WRITING-STYLE-STANDARDS.md`, which defines the
 standards writing style of ES publications; the two styles share the
 sentence rules and disagree only where their readers differ — a
 standard is consulted by a reviewer, the website is read by a visitor.
